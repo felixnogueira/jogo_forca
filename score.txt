@@ -1,7 +1,1 @@
-Felix;600
-Felix;0
-Amanda;0
-Amanda;400
-Felix;800
-Felix;0
-Felix;200
+
